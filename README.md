@@ -38,8 +38,11 @@ The survey data used in this analysis is collected from [mention the source, e.g
 - Potential improvements in data practices and tools.
 
 ## Visualization
+![Power Bi main](https://github.com/ItsMadtoEvil/Power-Bi_Data_Professional_Survay_Analysis/assets/131622512/362edfc0-943b-45e5-9d96-e9c40bdf7296)
 
-[Include screenshots of key Power BI dashboards or visualizations]
+![Power Bi tablesdata](https://github.com/ItsMadtoEvil/Power-Bi_Data_Professional_Survay_Analysis/assets/131622512/c4067cfd-297e-4ea9-94d3-d9638a68caa3)
+
+![Power Bi mobile view](https://github.com/ItsMadtoEvil/Power-Bi_Data_Professional_Survay_Analysis/assets/131622512/6a49bbc1-e98d-43ce-9573-c5e531d1b286)
 
 ## How to Use
 
@@ -54,11 +57,3 @@ The survey data used in this analysis is collected from [mention the source, e.g
 - **Expand Dataset:** Incorporate more survey data to enhance the analysis.
 - **Advanced Analytics:** Apply advanced analytics and machine learning techniques to uncover deeper insights.
 - **Community Feedback:** Gather feedback from the community to improve the analysis and visualizations.
-
-## Fews Insights Of Project
- 
-![Power Bi main](https://github.com/ItsMadtoEvil/Power-Bi_Data_Professional_Survay_Analysis/assets/131622512/362edfc0-943b-45e5-9d96-e9c40bdf7296)
-
-![Power Bi tablesdata](https://github.com/ItsMadtoEvil/Power-Bi_Data_Professional_Survay_Analysis/assets/131622512/c4067cfd-297e-4ea9-94d3-d9638a68caa3)
-
-![Power Bi mobile view](https://github.com/ItsMadtoEvil/Power-Bi_Data_Professional_Survay_Analysis/assets/131622512/6a49bbc1-e98d-43ce-9573-c5e531d1b286)
